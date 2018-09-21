@@ -12,3 +12,5 @@ importFrom(snowfall,sfInit)
 importFrom(snowfall,sfLapply)
 importFrom(snowfall,sfRemoveAll)
 importFrom(snowfall,sfStop)
+importFrom(snowfall,setDefaultClusterOptions)
+
