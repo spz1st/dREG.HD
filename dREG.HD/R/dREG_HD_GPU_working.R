@@ -3,6 +3,7 @@
 #' @importFrom data.table rbindlist
 #' @importFrom snow getMPIcluster
 #' @importFrom snowfall sfExport sfInit sfLapply sfRemoveAll sfStop
+require(snowfall)
 
 #utility functions
 
